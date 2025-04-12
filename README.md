@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on my portfolio and exploring more about React, Next.js, Node.js, and Docker.
 
-👨‍💻 All of my projects are available at [My Portfolio]([https://my-portfolio-omega-jade-30.vercel.app/](https://my-portfolio-rosy-omega-32.vercel.app/projects)).
+👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-rosy-omega-32.vercel.app/)).
 
 💬 Ask me about React, Next.js, Node.js, and MongoDB.
 

@@ -6,6 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=NikolozGel" alt="Profile views"/>
 </p>
 
+---
+
 🔭 I’m currently working on my portfolio and exploring more about React, Next.js, Node.js, and Docker.
 
 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-rosy-omega-32.vercel.app/).
@@ -18,10 +20,7 @@
 
 ### 📞 Connect with me:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nikolozgelenidze/" target="blank">LinkedIn</a> •
-  <a href="https://github.com/NikolozGel" target="blank">GitHub</a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/nikolozgelenidze/) • [GitHub](https://github.com/NikolozGel)
 
 ---
 

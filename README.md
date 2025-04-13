@@ -2,7 +2,7 @@
 
 <h3 align="center">Front-End Developer | MERN Stack Enthusiast</h3>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=NikolozGel" alt="Profile views"/>
 </p>
 

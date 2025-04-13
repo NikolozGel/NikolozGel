@@ -45,7 +45,7 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=NikolozGel&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/>
 </p>
 

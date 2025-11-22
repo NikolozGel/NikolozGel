@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikoloz Gelenidze</h1>
 
-<h3 align="center">Front-End Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Front-End Engineer</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=NikolozGel" alt="Profile views"/>
@@ -8,13 +8,13 @@
 
 ---
 
-🔭 I’m currently working on my portfolio and exploring more about React, Next.js, Node.js, and Docker.
+🔭 Building real-world projects to sharpen my skills and land my first Front-End Engineer role..
 
 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-rosy-omega-32.vercel.app/).
 
-💬 Ask me about React, Next.js, Node.js, and MongoDB.
-
 📫 How to reach me: nikolozgelenidze@gmail.com
+
+📞 my phone number: +995575757535
 
 ---
 
@@ -56,3 +56,4 @@
 </p>
 
 ---
+

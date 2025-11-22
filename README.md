@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -38,7 +39,6 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
 ---
@@ -56,4 +56,5 @@
 </p>
 
 ---
+
 
